@@ -1,0 +1,20 @@
+(en)
+OPTIONS MENU IN TERMINAL v1.0 (too colorful)
+
+
+-in python idle isn't working well the colours.
+-the code is all in portuguese and "well explained".
+-doesn't have a while loop in the first input 'cause i haven't learn yet. If you type something that isn't a int number, it'll get error.
+-The menu takes 2 seconds to shows up because it was a little confusing to read if use too much times.
+
+(pt-br)
+MENU DE OPÇÕES NO TERMINAL v1.0 (bastante colorido)
+
+-no idle do phython as cores não funcionam.
+-o código está todo em português e "bem explicado".
+-não tem um loop no primeiro input porquê ainda não aprendi ainda. Se você digitar algo que não seja um número inteiro, vai dar erro.
+-o menu leva 2 segundos para aparecer porque estava um pouco confuso de ler se usasse muitas vezes.
+
+
+
+thenickz --->10/01/2021 (d/m/y)
